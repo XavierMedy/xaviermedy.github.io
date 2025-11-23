@@ -1,2 +1,1 @@
-# myosintproject.github.io
-phishing simulation
+This is a fake company page that houses fake data for data parsing
