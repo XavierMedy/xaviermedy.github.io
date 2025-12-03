@@ -22,6 +22,10 @@ people_data = [
     {"name": "Dr. Maya H. Sullivan", "email": "jmaya.sullivan@trfuture.com"},
     {"name": "Ronald Vega", "email": "ronald.vega@trfuture.com"},
     {"name": "Ethan Valdez", "email": "ethan.valdez@trfuture.com"},
+     {"name": "Xavier Medy", "email": "xavier.medy@trfuture.com"},
+     {"name": "Nidra Hayes", "nidra.hayes@trfuture.com"},
+     {"name": "Michelle Ortega", "email": "michelle.ortega@trfuture.com"},
+     {"name": "Kevin R. Martens", "email": "kevin.martens@trfuture.com"},
 ]
 
 # -------------------------------
